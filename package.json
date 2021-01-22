@@ -1,6 +1,6 @@
 {
   "name": "nextngnrwp",
-  "homepage": "https://imdrewhall.github.io/NextngnrWP/",
+  "homepage": "https://imdrewhall.github.io/nextngnrwp/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

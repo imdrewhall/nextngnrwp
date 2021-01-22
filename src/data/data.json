@@ -1,0 +1,123 @@
+{
+    "Header": {
+
+        "title": "Bienvenido a Nextngnr",
+        "paragraph": "Solo hace falta creer en algo para que salga bien."
+
+    },
+    "Features": [{
+        "img": "img/newportfolio/afterschoollogo.png",
+        "title": "AfterSchool Mechatronics",
+        "text": "Un espacio de jóvenes adolescentes, donde desarrollar sus competencias en Mecánica, informática y electrónica, en un ambiente de Aprendizaje bajo Proyectos."
+    },
+    {
+        "img": "img/newportfolio/iotgardenlogo.png",
+        "title": "IoT Garden",
+        "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam. Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+    {
+        "img": "img/newportfolio/3dlogo.png",
+        "title": "3D Build & Design",
+        "text": "De la idea al prototipo. Le ayudamos a que sea realidad la elaboración de ese proyecto."
+    },
+    {
+        "img": "img/newportfolio/3.png",
+        "title": "Industrial & Home IoT Control and Automation",
+        "text": "Solucionamos e Implementamos sus necesidades de control y automatización integrando el concepto de \"Internet of Things\""
+    }
+],
+    "About": {
+        "paragraph": "\"Next Engineer\" Es una comunidad de desarrollo que busca promover la ingeniería como forma de vida, más que profesionales de una carrera u oficio, ser personas con las competencias necesarias para integrar su espíritu y vocación a la solución de problemas de su entorno con ingenio, arte e integridad.",
+        "Why": [
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
+        ],
+        "Why2": [
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-graduation-cap",
+            "name": "Tutorías Personalizadas",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-laptop",
+            "name": "Capacitaciones",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-wifi",
+            "name": "Diseño y Desarrollo de Aplicaciones IoT",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cogs",
+            "name": "Automatización",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-cubes",
+            "name": "Diseño e Impresión 3D",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        },
+        {
+            "icon": "fa fa-paper-plane",
+            "name": "Makerspace",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/newportfolio/familia.JPG",
+            "name": "Familia Hall-Smith",
+            "job": "Thanny, Andrew, Tony, Linda y Arundel"
+        }
+    ],
+    "Contact": {
+        "address": "#65, Calle 86 este, Parque Lefevre, Ciudad de Panamá",
+        "phone": "+507 62523680",
+        "email": "info@nextngnr.com",
+        "facebook": "https://www.facebook.com/Nextngnr-225769211707496/?ref=py_c&__xts__=68",
+        "twitter": "https://twitter.com/nextngnr?lang=es",
+        "youtube": "youtube.com",
+        "instagram": "https://www.instagram.com/nextngnr/"       
+    }
+}

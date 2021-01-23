@@ -83,8 +83,8 @@ hr {
 }
 
 #menu a.navbar-brand  img {
-	height: 20px;
-	width: 20px;
+	height: 2px;
+	width: 2px;
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;

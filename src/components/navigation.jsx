@@ -23,7 +23,6 @@ export class Navigation extends Component {
             </a>{" "}
             <img
                         src="img/newportfolio/circuitobg3.jpg"
-                        className="img-responsive"
                         alt="Project Title"
                       />
           </div>

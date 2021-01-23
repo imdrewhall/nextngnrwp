@@ -82,7 +82,7 @@ hr {
 	text-transform: uppercase;
 }
 
-#menu a.navbar-brand  img {
+.navbar-brand  img {
 	height: 2px;
 	width: 2px;
 }

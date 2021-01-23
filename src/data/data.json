@@ -8,7 +8,7 @@
     "Features": [{
         "img": "img/newportfolio/afterschoollogo.png",
         "title": "AfterSchool Mechatronics",
-        "text": "Un espacio de jóvenes adolescentes, donde desarrollar sus competencias en Mecánica, informática y electrónica, en un ambiente de Aprendizaje bajo Proyectos."
+        "text": "Un espacio para jóvenes adolescentes, donde desarrollar sus competencias en mecánica, informática y electrónica, en un ambiente de Aprendizaje Basado en Proyectos."
     },
     {
         "img": "img/newportfolio/iotgardenlogo.png",
@@ -27,7 +27,7 @@
     }
 ],
     "About": {
-        "paragraph": "\"Next Engineer\" Es una comunidad de desarrollo que busca promover la ingeniería como forma de vida, más que profesionales de una carrera u oficio, ser personas con las competencias necesarias para integrar su espíritu y vocación a la solución de problemas de su entorno con ingenio, arte e integridad.",
+        "paragraph": "\"Next Engineer\" es una comunidad de desarrollo que busca promover la ingeniería como forma de vida, más que profesionales de una carrera u oficio, ser personas con las competencias necesarias para integrar su espíritu y vocación a la solución de problemas de su entorno con ingenio, arte e integridad.",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",

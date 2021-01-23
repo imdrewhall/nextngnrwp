@@ -81,6 +81,69 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
+                      href="img/newportfolio/circuitobg2.jpg"
+                      title="Project Title"
+                      data-lightbox-gallery="gallery1"
+                    >
+                      <div className="hover-text">
+                        <h4>ESP-32 + Sensor de Ultrasonido + Drivers A4998</h4>
+                      </div>
+                      <img
+                        src="img/newportfolio/circuitobg2.jpg"
+                        className="img-responsive"
+                        alt="Project Title"
+                      />{" "}
+                    </a>{" "}
+                  </div>
+                </div>
+              </div>
+              <div className="col-sm-6 col-md-4 col-lg-4">
+                <div className="portfolio-item">
+                  <div className="hover-bg">
+                    {" "}
+                    <a
+                      href="img/newportfolio/robot.jpg"
+                      title="Project Title"
+                      data-lightbox-gallery="gallery1"
+                    >
+                      <div className="hover-text">
+                        <h4>S.i.a.a.r.</h4>
+                      </div>
+                      <img
+                        src="img/newportfolio/robot.jpg"
+                        className="img-responsive"
+                        alt="Project Title"
+                      />{" "}
+                    </a>{" "}
+                  </div>
+                </div>
+              </div>              
+              <div className="col-sm-6 col-md-4 col-lg-4">
+                <div className="portfolio-item">
+                  <div className="hover-bg">
+                    {" "}
+                    <a
+                      href="img/newportfolio/mariposas.jpeg"
+                      title="Project Title"
+                      data-lightbox-gallery="gallery1"
+                    >
+                      <div className="hover-text">
+                        <h4>Mariposas con 3DPrinting</h4>
+                      </div>
+                      <img
+                        src="img/newportfolio/mariposas.jpeg"
+                        className="img-responsive"
+                        alt="Project Title"
+                      />{" "}
+                    </a>{" "}
+                  </div>
+                </div>
+              </div> 
+              <div className="col-sm-6 col-md-4 col-lg-4">
+                <div className="portfolio-item">
+                  <div className="hover-bg">
+                    {" "}
+                    <a
                       href="img/newportfolio/webyrobot2.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
@@ -165,15 +228,15 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/newportfolio/robot.jpg"
+                      href="img/newportfolio/higro.JPG"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>S.i.a.a.r.</h4>
+                        <h4>Prueba de Higrómetro (Sensor de humedad)</h4>
                       </div>
                       <img
-                        src="img/newportfolio/robot.jpg"
+                        src="img/newportfolio/higro.JPG"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -186,22 +249,23 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/newportfolio/mariposas.jpeg"
+                      href="img/newportfolio/controladorstep.png"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Mariposas con 3DPrinting</h4>
+                        <h4>Circuito controlador de stepper motor para la CNC</h4>
                       </div>
                       <img
-                        src="img/newportfolio/mariposas.jpeg"
+                        src="img/newportfolio/controladorstep.png"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
                 </div>
-              </div>              
+              </div> 
+                           
             </div>
           </div>
         </div>

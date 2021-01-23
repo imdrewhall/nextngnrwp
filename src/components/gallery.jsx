@@ -81,7 +81,7 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/newportfolio/circuitobg2.jpg"
+                      href="img/newportfolio/circuitobg3.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
@@ -89,7 +89,7 @@ export class Gallery extends Component {
                         <h4>ESP-32 + Sensor de Ultrasonido + Drivers A4998</h4>
                       </div>
                       <img
-                        src="img/newportfolio/circuitobg2.jpg"
+                        src="img/newportfolio/circuitobg3.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}

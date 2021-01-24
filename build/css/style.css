@@ -190,12 +190,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 /* Header Section */
 .intro {
 	display: table;
-	width: 100%;
+	/* width: 100%; */
 	padding: 0;
 	/* background: url(../img/circuitobg.jpg) center center no-repeat; */
 	background: url(https://images.unsplash.com/photo-1607375977013-4f78e5400095?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) center center no-repeat;
 	background-color: #e5e5e5;
-	-webkit-background-size: cover;
+	-webkit-background-size: contain;
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;

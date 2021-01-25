@@ -81,22 +81,23 @@ export class Gallery extends Component {
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/newportfolio/circuitobg3.jpg"
+                      href="img/newportfolio/controladorstep.png"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>ESP-32 + Sensor de Ultrasonido + Drivers A4998</h4>
+                        <h4>Circuito controlador de stepper motor para la CNC</h4>
                       </div>
                       <img
-                        src="img/newportfolio/circuitobg3.jpg"
+                        src="img/newportfolio/controladorstep.png"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
                 </div>
-              </div>
+              </div> 
+              
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
@@ -181,28 +182,29 @@ export class Gallery extends Component {
                     </a>{" "}
                   </div>
                 </div>
-              </div>            
+              </div>      
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/newportfolio/controladorstep.png"
+                      href="img/newportfolio/circuitobg3.jpg"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Circuito controlador de stepper motor para la CNC</h4>
+                        <h4>ESP-32 + Sensor de Ultrasonido + Drivers A4998</h4>
                       </div>
                       <img
-                        src="img/newportfolio/controladorstep.png"
+                        src="img/newportfolio/circuitobg3.jpg"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
                     </a>{" "}
                   </div>
                 </div>
-              </div>  {/*
+              </div>      
+               {/*
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">

@@ -23,6 +23,7 @@ export class Navigation extends Component {
             </a>{" "}
             <img
                         src="img/newportfolio/nextngnrlogo.jpg"
+                        className="team-img"
                         alt="Project Title"
                       />
           </div>

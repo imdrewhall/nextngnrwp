@@ -13,20 +13,21 @@ export class Gallery extends Component {
           </div>
           <div className="row">
             <div className="portfolio-items">
-              <div className="col-sm-6 col-md-4 col-lg-4">
+             {/* Brazo robótico tipo scara                */}
+             <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/newportfolio/arduinostep.png"
+                      href="img/newportfolio/brazoscara.png"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Control de Nema17</h4>
+                        <h4>Brazo robótico tipo scara</h4>
                       </div>
                       <img
-                        src="img/newportfolio/arduinostep.png"
+                        src="img/newportfolio/brazoscara.png"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -34,6 +35,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>
+              {/* Simulador de estacionamientos automatizado */}
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
@@ -55,6 +57,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>
+              {/* Sistema de riego controlado por wifi */}
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
@@ -76,6 +79,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>
+              {/* ESP-32 + Sensor de Ultrasonido + Drivers A4998 */}
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
@@ -97,21 +101,21 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>
-                             
-              <div className="col-sm-6 col-md-4 col-lg-4">
+               {/* Control de Nema17 */}
+               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
                     {" "}
                     <a
-                      href="img/newportfolio/brazoscara.png"
+                      href="img/newportfolio/arduinostep.png"
                       title="Project Title"
                       data-lightbox-gallery="gallery1"
                     >
                       <div className="hover-text">
-                        <h4>Brazo robótico tipo scara</h4>
+                        <h4>Control de Nema17</h4>
                       </div>
                       <img
-                        src="img/newportfolio/brazoscara.png"
+                        src="img/newportfolio/arduinostep.png"
                         className="img-responsive"
                         alt="Project Title"
                       />{" "}
@@ -119,6 +123,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>
+              {/* Prueba de Higrómetro (Sensor de humedad) */}
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
@@ -140,6 +145,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>            
+              {/* Circuito controlador de stepper motor para la CNC */}
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
@@ -161,6 +167,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div> 
+              {/* S.i.a.a.r. */}
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">
@@ -182,6 +189,7 @@ export class Gallery extends Component {
                   </div>
                 </div>
               </div>         
+              {/* Mariposas con 3DPrinting */}
               <div className="col-sm-6 col-md-4 col-lg-4">
                 <div className="portfolio-item">
                   <div className="hover-bg">

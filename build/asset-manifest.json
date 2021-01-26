@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nextngnrwp/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/nextngnrwp/static/js/main.90e9e328.chunk.js",
-    "main.js.map": "/nextngnrwp/static/js/main.90e9e328.chunk.js.map",
+    "main.js": "/nextngnrwp/static/js/main.bbd203c5.chunk.js",
+    "main.js.map": "/nextngnrwp/static/js/main.bbd203c5.chunk.js.map",
     "runtime-main.js": "/nextngnrwp/static/js/runtime-main.19a5236a.js",
     "runtime-main.js.map": "/nextngnrwp/static/js/runtime-main.19a5236a.js.map",
     "static/js/2.36baa270.chunk.js": "/nextngnrwp/static/js/2.36baa270.chunk.js",
     "static/js/2.36baa270.chunk.js.map": "/nextngnrwp/static/js/2.36baa270.chunk.js.map",
     "index.html": "/nextngnrwp/index.html",
-    "precache-manifest.6460ca51da9017c498068626d3234101.js": "/nextngnrwp/precache-manifest.6460ca51da9017c498068626d3234101.js",
+    "precache-manifest.245fc7a444a80ab2f3b25efde7393290.js": "/nextngnrwp/precache-manifest.245fc7a444a80ab2f3b25efde7393290.js",
     "service-worker.js": "/nextngnrwp/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/nextngnrwp/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.36baa270.chunk.js.LICENSE.txt": "/nextngnrwp/static/js/2.36baa270.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.19a5236a.js",
     "static/js/2.36baa270.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.90e9e328.chunk.js"
+    "static/js/main.bbd203c5.chunk.js"
   ]
 }

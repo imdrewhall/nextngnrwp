@@ -76,11 +76,11 @@
     ],
     "Testimonials": [{
             "img": "img/testimonials/ana.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "text": "\"En la vida algunas veces se gana, otras veces se aprende.\"",
+            "name": "Dora Ríos"
         },
         {
-            "img": "img/testimonials/02.jpg",
+            "img": "img/testimonials/lucho.png",
             "text": "\"Yo solo sé que nada sé.\"",
             "name": "Luis Tugri"
         },

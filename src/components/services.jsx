@@ -8,9 +8,9 @@ export class Services extends Component {
         <div className="container">
           <div className="section-title">
             <h2>¿Qué Ofrecemos?</h2>
-            <p>
+            {/* <p>
               A continuación te presentamos los diferentes servicios que somos capaces de 
-            </p>
+            </p> */}
           </div>
           <div className="row">
             {this.props.data

@@ -44,22 +44,22 @@
     "Services": [{
             "icon": "fa fa-graduation-cap",
             "name": "Tutorías Personalizadas",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "Brindamos servicios especiales en función a lo que deseas aprender. Desde lo más básico hasta lo más avanzado acerca de este maravilloso mundo de microcontroladores y cultura maker."
         },
         {
             "icon": "fa fa-laptop",
             "name": "Capacitaciones",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "Cursos orientados al desarrollo de habilidades."
         },
         {
             "icon": "fa fa-wifi",
             "name": "Diseño y Desarrollo de Aplicaciones IoT",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "El IoT o Internet de las Cosas se refiere al hecho de conectar a la red dispositivos que anteriormente resultaban imposibles de imaginar conectados."
         },
         {
             "icon": "fa fa-cogs",
             "name": "Automatización",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "text": "Realizamos proyectos que simplifican los procesos comunes utilizando las herramientas adecuadas para éstos, desde microcontroladores hasta controladores lógicos programables (PLC)."
         },
         {
             "icon": "fa fa-cubes",

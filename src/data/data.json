@@ -49,7 +49,7 @@
         {
             "icon": "fa fa-laptop",
             "name": "Capacitaciones",
-            "text": "Cursos orientados al desarrollo de habilidades."
+            "text": "Cursos orientados al desarrollo de habilidades en el área técnica."
         },
         {
             "icon": "fa fa-wifi",
@@ -64,12 +64,12 @@
         {
             "icon": "fa fa-cubes",
             "name": "Diseño e Impresión 3D",
-            "text": "."
+            "text": "Envíanos el diseño que desees imprimir o ¡créalo tú mismo! Pon a prueba tu mente creativa y haz realidad eso que ."
         },
         {
             "icon": "fa fa-paper-plane",
             "name": "Makerspace",
-            "text": "."
+            "text": "Proporcionamos un espacio en el cual puedas llevar a cabo los proyectos que te propongas, con el acompañamiento de nuestros instructores."
         }
 
 

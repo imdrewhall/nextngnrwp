@@ -20,11 +20,12 @@ export class Navigation extends Component {
             </button>
             <a className="navbar-brand page-scroll" href="#page-top">
               NEXTNGNR
+              <div class="logo-img-navbar">
               <img
                         src="img/newportfolio/nextngnrlogo.png"
-                        className="img-navbar"
-                        alt="Project Title"
+                        className="img-fluid"
                       />
+              </div>
             </a>{" "}
             
           </div>

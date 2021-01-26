@@ -82,9 +82,13 @@ hr {
 	text-transform: uppercase;
 }
 
-#menu.img-navbar  {
-	height: 20px;
-	width: 20px;
+.img-navbar  {
+		width: 46px;
+		height: 46px;
+		border-radius: 50%;
+		overflow: hidden;
+		margin-top: -6px;
+	
 }
 #menu.navbar-default .navbar-nav > li > a {
 	font-family: 'Lato', sans-serif;

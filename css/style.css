@@ -82,7 +82,7 @@ hr {
 	text-transform: uppercase;
 }
 
-.img-navbar  img {
+#menu.img-navbar  {
 	height: 20px;
 	width: 20px;
 }

@@ -22,7 +22,7 @@ export class features extends Component {
                         {" "}
                       </div>
                     <h3>{d.title}</h3>
-                    <p class="text-justify">{d.text}</p>
+                    <p>{d.text}</p>
                   </div>
                 ))
               : "Loading..."}

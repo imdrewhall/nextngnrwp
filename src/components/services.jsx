@@ -22,7 +22,7 @@ export class Services extends Component {
                       </Tilt> 
                     <div className="service-desc">
                       <h3>{d.name}</h3>
-                      <p class="text-justify">{d.text}</p>
+                      <p>{d.text}</p>
                     </div>
                   </div>
                 ))

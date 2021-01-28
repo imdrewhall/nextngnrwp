@@ -89,22 +89,22 @@
         {
             "img": "img/testimonials/03.jpg",
             "text": "Pedir perdón es de inteligentes, perdonar es de nobles y perdonarse es de sabios.",
-            "name": "John Doe"
+            "name": "Johnathan Doe"
         },
         {
             "img": "img/testimonials/04.jpg",
             "text": "Si quieres algo que nunca tuviste, debes hacer algo que nunca hiciste.",
-            "name": "Johnathan Doe"
+            "name": "Josefina Altamiranda"
         },
         {
             "img": "img/testimonials/05.jpg",
             "text": "El pesimista se queja del viento; el optimista espera que cambie; el realista ajusta las velas.",
-            "name": "John Doe"
+            "name": "William Ward"
         },
         {
             "img": "img/testimonials/06.jpg",
             "text": "La reflexión es el camino hacia la inmortalidad; la falta de reflexión, el camino hacia la muerte.",
-            "name": "Johnathan Doe"
+            "name": "Buddha"
         }
     ],
     "Team": [{

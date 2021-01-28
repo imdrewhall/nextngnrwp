@@ -73,7 +73,7 @@ hr {
 	background-color: #fff;
 	border-color: rgba(231, 231, 231, 0);
 	box-shadow: 0 0 20px rgba(0,0,0,0.15);
-	width: auto;
+	width: contain;
 }
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;

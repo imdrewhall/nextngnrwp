@@ -15,7 +15,7 @@ export class Team extends Component {
           <div id="row">
             {this.props.data
               ? this.props.data.map((d, i) => (
-                  <div  key={`${d.name}-${i}`} className="col-md-12 col-sm-6 team">
+                  <div  key={`${d.name}-${i}`} className="col-xs-12 col-md-12 col-sm-12 team">
                     <div className="thumbnail">
                       {" "}
                       <Tilt className="Tilt" options={{ max : 10 }}  >

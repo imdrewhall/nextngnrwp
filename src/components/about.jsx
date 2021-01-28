@@ -16,7 +16,12 @@ export class about extends Component {
               <div className="about-text">
                 <h2>Nosotros</h2>
                 <p>{this.props.data ? this.props.data.paragraph : 'loading...'}</p>
-                <h3>¿Por qué escogernos?</h3>
+                <h3>Misión</h3>
+                <p>{this.props.data ? this.props.data.mision : 'loading...'}</p>
+                <h3>Visión</h3>
+                <p>{this.props.data ? this.props.data.vision : 'loading...'}</p>
+
+               {/*  <h3>¿Por qué escogernos?</h3>
                 <div className="list-style">
                   <div className="col-lg-6 col-sm-6 col-xs-12">
                     <ul>
@@ -29,7 +34,7 @@ export class about extends Component {
 
                     </ul>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

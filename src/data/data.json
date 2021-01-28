@@ -12,7 +12,7 @@
     },
     {
         "img": "img/newportfolio/iotgardenlogo.png",
-        "title": "IoT Garden",
+        "title": "IoT Gardening",
         "text": "Promover el uso de la tecnología para propiciar un cuidado especial a nuestros cultivos, permitiéndonos tener en poco espacio productos de consumo y deleite sin el estrés del cuidado manual."
         },
     {
@@ -23,11 +23,13 @@
     {
         "img": "img/newportfolio/3.png",
         "title": "Industrial & Home IoT Control and Automation",
-        "text": "Solucionamos e Implementamos sus necesidades de control y automatización integrando el concepto de \"Internet of Things\""
+        "text": "Solucionamos e implementamos sus necesidades de control y automatización, integrando el concepto de \"Internet of Things\""
     }
 ],
     "About": {
         "paragraph": "\"Next Engineer\" es una comunidad de desarrollo que busca promover la ingeniería como forma de vida, más que profesionales de una carrera u oficio, ser personas con las competencias necesarias para integrar su espíritu y vocación a la solución de problemas de su entorno con ingenio, arte e integridad.",
+        "mision":"Ofrecer acceso a la automatización y sistemas de control con herramientas de Software y Hardware de código abierto, garantizando calidad y eficiencia.",
+        "vision":"Ser promotores del estilo de vida MAKERS, siendo testimonio permanente de que \"solo hay que creer en algo para que salga bien\".",
         "Why": [
             "Lorem ipsum dolor",
             "Tempor incididunt",

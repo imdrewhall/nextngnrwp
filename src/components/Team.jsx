@@ -6,7 +6,7 @@ export class Team extends Component {
     return (
       <div id="team" className="text-center">
         <div className="container">
-          <div className="col-md-8 col-md-offset-2 section-title">
+          <div className="col-xs-12 col-md-8 col-md-offset-2 section-title">
             <h2>Conoce al equipo</h2>
             <p>
               "Una familia que trabaja unida, permanece unida"

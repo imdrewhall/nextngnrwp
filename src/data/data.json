@@ -55,8 +55,8 @@
         },
         {
             "icon": "fa fa-wifi",
-            "name": "Diseño y Desarrollo de Aplicaciones IoT",
-            "text": "El IoT o Internet de las Cosas se refiere al hecho de conectar a la red dispositivos que anteriormente resultaban imposibles de imaginar conectados."
+            "name": "Diseño de Aplicaciones IoT",
+            "text": "Creamos y desarrollamos aplicaciones de Internet de las Cosas conectando a la red dispositivos que anteriormente resultaban imposibles de imaginar conectados."
         },
         {
             "icon": "fa fa-cogs",
@@ -71,7 +71,7 @@
         {
             "icon": "fa fa-paper-plane",
             "name": "Makerspace",
-            "text": "Te ofrecemos un espacio en el cual puedas llevar a cabo los proyectos que te propongas, con el acompañamiento de nuestros tutores."
+            "text": "Te ofrecemos un espacio en donde puedas llevar a cabo los proyectos que te propongas, con el acompañamiento de nuestros tutores."
         }
 
 

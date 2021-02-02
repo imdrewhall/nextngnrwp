@@ -51,7 +51,7 @@
         {
             "icon": "fa fa-laptop",
             "name": "Capacitaciones",
-            "text": "Cursos orientados al desarrollo de habilidades en el área técnica."
+            "text": "Cursos orientados al desarrollo de habilidades técnico-profesionales. Aprende, construye y programa con nosotros."
         },
         {
             "icon": "fa fa-wifi",
@@ -71,7 +71,7 @@
         {
             "icon": "fa fa-paper-plane",
             "name": "Makerspace",
-            "text": "Proporcionamos un espacio en el cual puedas llevar a cabo los proyectos que te propongas, con el acompañamiento de nuestros instructores."
+            "text": "Te ofrecemos un espacio en el cual puedas llevar a cabo los proyectos que te propongas, con el acompañamiento de nuestros tutores."
         }
 
 

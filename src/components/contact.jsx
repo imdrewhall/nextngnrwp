@@ -9,7 +9,7 @@ export class Contact extends Component {
             <div className="col-md-8">
               <div className="row">
                 <div className="section-title">
-                  <h2>Póngase en contacto</h2>
+                  <h2>Contáctenos</h2>
                   <p>
                     Complete el formulario a continuación para enviarnos un correo electrónico y nosotros
                     nos comunicaremos con usted lo antes posible.

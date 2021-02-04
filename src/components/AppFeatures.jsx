@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Navigation from './components/featuresComponents/navigationFeatures';
+import Navigation from './featuresComponents/navigationFeatures';
 
 export class AppFeatures extends Component {
     state = {

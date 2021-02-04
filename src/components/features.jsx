@@ -34,8 +34,8 @@ export class features extends Component {
                 ))
               : "Loading..."}
           </div>
-          <div className='tc'>
-                <h1> 
+          <div className="col-md-10 col-md-offset-1">
+                <h2> 
                 <Router>
                     <div>
                     <nav>                        
@@ -51,7 +51,7 @@ export class features extends Component {
                     </Switch>
                     </div>
                 </Router>
-              </h1>
+              </h2>
             </div>
         </div>
       </div>

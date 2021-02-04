@@ -210,71 +210,8 @@ export class Gallery extends Component {
                     </a>{" "}
                   </div>
                 </div>
-              </div>  {/*
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/newportfolio/webyrobot2.jpg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Página web del S.i.a.a.r.</h4>
-                      </div>
-                      <img
-                        src="img/newportfolio/webyrobot2.jpg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
-              </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/newportfolio/cnc.jpeg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>DIY CNC</h4>
-                      </div>
-                      <img
-                        src="img/newportfolio/cnc.jpeg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
-              </div>
-              <div className="col-sm-6 col-md-4 col-lg-4">
-                <div className="portfolio-item">
-                  <div className="hover-bg">
-                    {" "}
-                    <a
-                      href="img/newportfolio/student1-2.jpeg"
-                      title="Project Title"
-                      data-lightbox-gallery="gallery1"
-                    >
-                      <div className="hover-text">
-                        <h4>Curso de IoT</h4>
-                      </div>
-                      <img
-                        src="img/newportfolio/student1-2.jpeg"
-                        className="img-responsive"
-                        alt="Project Title"
-                      />{" "}
-                    </a>{" "}
-                  </div>
-                </div>
-              </div>
-             */}</div> 
+              </div>  
+            </div> 
           </div>
         </div>
       </div>

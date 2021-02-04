@@ -40,17 +40,17 @@ export class features extends Component {
                 ))
               : "Loading..."}
           </div>
-          <div className="col-md-10 col-md-offset-1">
+          {/* <div className="col-md-10 col-md-offset-1">
                 <h2> 
                 <Router>
                     <div>
                     <nav>                        
                             <Link to="/appfeatures">Home</Link>
-                    </nav>
+                    </nav> */}
             
                     {/* A <Switch> looks through its children <Route>s and
                         renders the first one that matches the current URL. */}
-                    <Switch>
+                    {/* <Switch>
                         <Route path="/appfeatures">
                         <AppFeatures />
                         </Route>
@@ -58,7 +58,7 @@ export class features extends Component {
                     </div>
                 </Router>
               </h2>
-            </div>
+            </div> */}
         </div>
       </div>
     );

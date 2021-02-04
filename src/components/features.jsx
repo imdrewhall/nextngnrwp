@@ -30,6 +30,12 @@ export class features extends Component {
                       </div>
                     <h3>{d.title}</h3>
                     <p>{d.text}</p>
+                    <a
+                    href="#features"
+                    className="btn btn-custom btn-lg page-scroll"
+                  >
+                    Saber Más
+                  </a>{" "}
                   </div>
                 ))
               : "Loading..."}

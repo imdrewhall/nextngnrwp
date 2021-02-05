@@ -4,14 +4,14 @@ import JsonData from './featuresComponents/data/data2.json';
 
 export class AppFeatures extends Component {
     state = {
-      landingPageData: {},
+      landingPageData2: {},
     }
-    getlandingPageData() {
-      this.setState({landingPageData : JsonData})
+    getlandingPageData2() {
+      this.setState({landingPageData2 : JsonData})
     }
   
     componentDidMount() {
-      this.getlandingPageData();
+      this.getlandingPageData2();
     }
   
     render() {

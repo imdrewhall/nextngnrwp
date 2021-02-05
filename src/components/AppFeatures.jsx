@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Navigation from './featuresComponents/navigationFeatures';
+import NavigationFeatures from './featuresComponents/navigationFeatures';
 
 export class AppFeatures extends Component {
     state = {
@@ -16,7 +16,7 @@ export class AppFeatures extends Component {
     render() {
       return (
         <div>
-          <Navigation />
+          <NavigationFeatures />
           {/* <Header data={this.state.landingPageData.Header} />
           <Features data={this.state.landingPageData.Features} />
           <About data={this.state.landingPageData.About} />

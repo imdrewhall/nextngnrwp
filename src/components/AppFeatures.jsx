@@ -3,21 +3,21 @@ import NavigationFeatures from './featuresComponents/navigationFeatures';
 import JsonData from './featuresComponents/data/data2.json';
 
 export class AppFeatures extends Component {
-    state = {
-      landingPageData2: {},
-    }
-    getlandingPageData2() {
-      this.setState({landingPageData2 : JsonData})
-    }
+    // state = {
+    //   landingPageData2: {},
+    // }
+    // getlandingPageData2() {
+    //   this.setState({landingPageData2 : JsonData})
+    // }
   
-    componentDidMount() {
-      this.getlandingPageData2();
-    }
+    // componentDidMount() {
+    //   this.getlandingPageData2();
+    // }
   
     render() {
       return (
         <div>
-          <NavigationFeatures />
+          {/* <NavigationFeatures /> */}
           {/* <Header data={this.state.landingPageData.Header} />
           <Features data={this.state.landingPageData.Features} />
           <About data={this.state.landingPageData.About} />

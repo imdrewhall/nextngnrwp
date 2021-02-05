@@ -45,13 +45,13 @@ export class features extends Component {
                 <Router>
                   <div>
                     <nav>                        
-                            <Link to="/appfeatures">Home</Link>
+                            <Link to="/nextngnrwp/appfeatures">Home</Link>
                     </nav>
             
                     {/* A <Switch> looks through its children <Route>s and
                         renders the first one that matches the current URL. */}
                     <Switch>
-                        <Route path="/appfeatures">
+                        <Route path="/nextngnrwp/appfeatures">
                         <AppFeatures />
                         </Route>
                     </Switch>

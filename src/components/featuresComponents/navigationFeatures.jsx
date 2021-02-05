@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class NavigationFeature extends Component {
+export class NavigationFeatures extends Component {
   render() {
     return (
       <nav id="menu" className="navbar navbar-default navbar-fixed-top">

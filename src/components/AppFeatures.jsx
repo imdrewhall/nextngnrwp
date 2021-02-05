@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import NavigationFeatures from './featuresComponents/navigationFeatures';
+import JsonData from './featuresComponents/data/data2.json';
 
 export class AppFeatures extends Component {
     state = {

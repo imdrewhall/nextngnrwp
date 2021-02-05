@@ -30,34 +30,34 @@ export class features extends Component {
                       </div>
                     <h3>{d.title}</h3>
                     <p>{d.text}</p>
-                    <a
+                    {/* <a
                     href="#features"
                     className="btn btn-custom btn-lg page-scroll"
                   >
                     Saber Más
-                  </a>{" "}
+                  </a>{" "} */}
                   </div>
                 ))
               : "Loading..."}
           </div>
-          <div className="col-md-10 col-md-offset-1">
-                <h2> 
+           <div className="col-md-10 col-md-offset-1">
+               {/* <h2> 
                 <Router>
                   <div>
                     <nav>                        
                             <Link to="/nextngnrwp/appfeatures">Home</Link>
-                    </nav>
+                    </nav> */}
             
                     {/* A <Switch> looks through its children <Route>s and
                         renders the first one that matches the current URL. */}
-                    <Switch>
+                    {/* <Switch>
                         <Route path="/nextngnrwp/appfeatures">
                         <AppFeatures />
                         </Route>
                     </Switch>
                   </div>
                 </Router>
-              </h2>
+              </h2> */}
             </div>
         </div>
       </div>

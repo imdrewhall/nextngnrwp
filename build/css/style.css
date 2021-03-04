@@ -341,7 +341,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 				display: table;
 				width: 100%; 
 				padding: 0;
-				/* background: url(../img/circuitobg.jpg) center center no-repeat; */
+				background: url(../img/circuitobg.jpg) center center no-repeat;
 				/* background: url(https://images.unsplash.com/photo-1607375977013-4f78e5400095?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80) center center no-repeat; */
 				background-color: #e5e5e5;
 				-webkit-background-size: contain;
@@ -356,7 +356,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: #fff;
-	font-size: 82px;
+	font-size: 42px;
 	font-weight: 700;
 	text-transform: uppercase;
 	margin-top: 0;
@@ -378,6 +378,35 @@ header .intro-text {
 	padding-top: 350px;
 	padding-bottom: 200px;
 	text-align: center;
+}
+
+@media only screen and (max-width: 600px) {
+			.intro h1 {
+				font-family: 'Raleway', sans-serif;
+				color: #fff;
+				font-size: 82px;
+				font-weight: 700;
+				text-transform: uppercase;
+				margin-top: 0;
+				margin-bottom: 10px;
+			}
+			.intro h1 span {
+				font-weight: 800;
+				color: #ffa959;
+			}
+			.intro p {
+				color: #fff;
+				font-size: 22px;
+				font-weight: 300;
+				line-height: 30px;
+				margin: 0 auto;
+				margin-bottom: 60px;
+			}
+			header .intro-text {
+				padding-top: 350px;
+				padding-bottom: 200px;
+				text-align: center;
+			}
 }
 /* Features Section */
 #features {

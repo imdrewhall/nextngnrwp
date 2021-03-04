@@ -1,4 +1,4 @@
 npm run deploy
 git add .
-git commit -m "Ajustes de Servicios 3"
+git commit -m "Ajustes de tamaño de pantalla 6"
 git push -u origin master

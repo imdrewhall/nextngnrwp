@@ -195,14 +195,14 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 
 @media only screen and (max-width: 600px) {
 			#menu {
-				padding: 15px;
+				padding: 5px;
 				transition: all 0.8s;
 			}
 			#menu.navbar-default {
 				background-color: #fff;
 				border-color: rgba(231, 231, 231, 0);
 				box-shadow: 0 0 20px rgba(0,0,0,0.15);
-				width: contain;
+				width: cover;
 			}
 			#menu a.navbar-brand {
 				font-family: 'Raleway', sans-serif;

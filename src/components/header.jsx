@@ -17,11 +17,14 @@ export class Header extends Component {
                     {this.props.data ? this.props.data.paragraph : "Loading"}
                   </p>
                   <a
-                    href="#features"
+                    href="https://elearning.nextngnr.com/"
                     className="btn btn-custom btn-lg page-scroll"
                   >
-                    Saber Más
+                    Sitio de eLearning
                   </a>{" "}
+                  <p>
+                    {this.props.data ? this.props.data.paragraph2 : "Loading"}
+                  </p>
                 </div>
               </div>
             </div>
